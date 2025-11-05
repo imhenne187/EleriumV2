@@ -1,3 +1,3 @@
 # EleriumV2
 
-This library is Owned by [vyxonq](github.com/vyxonq)
+This LuaU library is Owned by [vyxonq](github.com/vyxonq)
